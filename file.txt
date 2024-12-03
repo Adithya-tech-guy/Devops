@@ -1,1 +1,3 @@
 hello world
+HOW ARE YOU?
+Editing this file to demonstrate git fetch
